@@ -1,7 +1,7 @@
 ## Hi, I'm Gaurav 👋 
 <img align="left" width="256" height="286" src="https://octodex.github.com/images/manufacturetocat.png">
 
-I'm a Software Engineer II with 4 years of work experience, currently working at **Zomato**. 
+I'm a Software Engineer with 4 years of work experience, currently working at **PhonePe**. 
 
 I solve problems by shipping software.
 
